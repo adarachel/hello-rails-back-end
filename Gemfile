@@ -72,3 +72,9 @@ end
 
 # Rubocop
 gem 'rubocop', '>= 1.0', '< 2.0'
+
+# rack cors gem
+gem 'rack-cors', require: 'rack/cors'
+
+# cors
+gem 'cors'
